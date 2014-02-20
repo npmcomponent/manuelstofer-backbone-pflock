@@ -1,5 +1,5 @@
-var pflock      = require('pflock'),
-    jsonpointer = require('json-pointer');
+var pflock      = require('manuelstofer-pflock'),
+    jsonpointer = require('manuelstofer-json-pointer');
 
 module.exports = BackbonePflockAdapter;
 
